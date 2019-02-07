@@ -13,3 +13,5 @@
 .eslintcache
 package-lock.json
 /_site
+/asset
+Makefile
