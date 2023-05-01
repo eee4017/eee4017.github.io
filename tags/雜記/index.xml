@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>雜記 on Frank Lin&#39;s Blog</title>
+    <link>https://example.com/tags/%E9%9B%9C%E8%A8%98/</link>
+    <description>Recent content in 雜記 on Frank Lin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Sep 2022 20:41:08 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/%E9%9B%9C%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>騎車回家</title>
+      <link>https://example.com/posts/%E9%A8%8E%E8%BB%8A%E5%9B%9E%E5%AE%B6/</link>
+      <pubDate>Mon, 19 Sep 2022 20:41:08 +0800</pubDate>
+      
+      <guid>https://example.com/posts/%E9%A8%8E%E8%BB%8A%E5%9B%9E%E5%AE%B6/</guid>
+      <description>我已經開始相信，那條曾經常常騎行的省道，是一個很遠很遠的地方。</description>
+    </item>
+    
+  </channel>
+</rss>

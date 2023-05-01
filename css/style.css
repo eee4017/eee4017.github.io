@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;600&family=Zen+Old+Mincho:wght@600&family=Source+Code+Pro&Noto+Sans+TC:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;600&family=Source+Code+Pro&Noto+Sans+TC:wght@600&display=swap');
 
 :root {
   --color-lightest: #fcfcfc;
@@ -173,11 +173,15 @@ table tr:last-child td {
   font-size: 2em;
 }
 
+h1 {
+  font-size: 2em;
+}
+
 .title,
 h1,
 h2,
 h3 {
-  font-family: 'Zen Old Mincho', serif;
+  font-family: 'Noto Serif TC', serif;
   font-weight: var(--font-weight-bold);
 }
 
