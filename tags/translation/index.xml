@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Translation on Frank Lin&#39;s Blog</title>
-    <link>https://example.com/tags/translation/</link>
+    <link>https://eee4017.github.io/tags/translation/</link>
     <description>Recent content in Translation on Frank Lin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Apr 2023 00:06:20 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/translation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eee4017.github.io/tags/translation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>[翻譯] 如果這是你所見過的最性感的事物之一，那麼你可能是個自戀者</title>
-      <link>https://example.com/posts/%E7%BF%BB%E8%AD%AF-%E5%A6%82%E6%9E%9C%E9%80%99%E6%98%AF%E4%BD%A0%E6%89%80%E8%A6%8B%E9%81%8E%E7%9A%84%E6%9C%80%E6%80%A7%E6%84%9F%E7%9A%84%E4%BA%8B%E7%89%A9%E4%B9%8B%E4%B8%80%E9%82%A3%E9%BA%BC%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%80%8B%E8%87%AA%E6%88%80%E8%80%85/</link>
+      <link>https://eee4017.github.io/posts/%E7%BF%BB%E8%AD%AF-%E5%A6%82%E6%9E%9C%E9%80%99%E6%98%AF%E4%BD%A0%E6%89%80%E8%A6%8B%E9%81%8E%E7%9A%84%E6%9C%80%E6%80%A7%E6%84%9F%E7%9A%84%E4%BA%8B%E7%89%A9%E4%B9%8B%E4%B8%80%E9%82%A3%E9%BA%BC%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%80%8B%E8%87%AA%E6%88%80%E8%80%85/</link>
       <pubDate>Sun, 30 Apr 2023 00:06:20 +0800</pubDate>
       
-      <guid>https://example.com/posts/%E7%BF%BB%E8%AD%AF-%E5%A6%82%E6%9E%9C%E9%80%99%E6%98%AF%E4%BD%A0%E6%89%80%E8%A6%8B%E9%81%8E%E7%9A%84%E6%9C%80%E6%80%A7%E6%84%9F%E7%9A%84%E4%BA%8B%E7%89%A9%E4%B9%8B%E4%B8%80%E9%82%A3%E9%BA%BC%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%80%8B%E8%87%AA%E6%88%80%E8%80%85/</guid>
+      <guid>https://eee4017.github.io/posts/%E7%BF%BB%E8%AD%AF-%E5%A6%82%E6%9E%9C%E9%80%99%E6%98%AF%E4%BD%A0%E6%89%80%E8%A6%8B%E9%81%8E%E7%9A%84%E6%9C%80%E6%80%A7%E6%84%9F%E7%9A%84%E4%BA%8B%E7%89%A9%E4%B9%8B%E4%B8%80%E9%82%A3%E9%BA%BC%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E5%80%8B%E8%87%AA%E6%88%80%E8%80%85/</guid>
       <description>自戀者從不感到內疚，只有羞愧</description>
     </item>
     
