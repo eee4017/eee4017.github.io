@@ -807,6 +807,13 @@ nav.navigation a.button {
   text-decoration: none;
 }
 
+.citation-inpage-ref {
+  font-family: 'Source Code Pro', 'Noto Sans TC', Courier, monospace;
+  font-size: 0.7em;
+  vertical-align: super;
+  font-weight: bold;
+}
+
 .citation a:hover {
   text-decoration: underline;
 }
