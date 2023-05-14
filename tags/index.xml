@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Frank Lin&#39;s Blog</title>
+    <link>https://eee4017.github.io/tags/</link>
+    <description>Recent content in Tags on Frank Lin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Apr 2023 00:06:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://eee4017.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Narcissism</title>
+      <link>https://eee4017.github.io/tags/narcissism/</link>
+      <pubDate>Sun, 30 Apr 2023 00:06:20 +0800</pubDate>
+      
+      <guid>https://eee4017.github.io/tags/narcissism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychoanalysis</title>
+      <link>https://eee4017.github.io/tags/psychoanalysis/</link>
+      <pubDate>Sun, 30 Apr 2023 00:06:20 +0800</pubDate>
+      
+      <guid>https://eee4017.github.io/tags/psychoanalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translation</title>
+      <link>https://eee4017.github.io/tags/translation/</link>
+      <pubDate>Sun, 30 Apr 2023 00:06:20 +0800</pubDate>
+      
+      <guid>https://eee4017.github.io/tags/translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>雜記</title>
+      <link>https://eee4017.github.io/tags/%E9%9B%9C%E8%A8%98/</link>
+      <pubDate>Mon, 19 Sep 2022 20:41:08 +0800</pubDate>
+      
+      <guid>https://eee4017.github.io/tags/%E9%9B%9C%E8%A8%98/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
