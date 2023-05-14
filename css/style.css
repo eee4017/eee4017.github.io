@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;600&family=Source+Code+Pro&Noto+Sans+TC:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;600&family=Source+Code+Pro&Noto+Sans+TC:wght@400;600&display=swap');
 
 :root {
   --color-lightest: #fcfcfc;
@@ -7,8 +7,8 @@
   --color-special: #58a4b0;
   --fadein-animate-time: 0.5s;
   --hover-animate-time: 0.8s;
-  --font-weight-light: 300;
-  --font-weight-medium: 600;
+  --font-weight-light: 400;
+  --font-weight-medium: 400;
   --font-weight-bold: 600;
   --header-height: 6em;
 }
@@ -45,7 +45,7 @@ body {
 
   font-size: 1em;
   font-weight: var(--font-weight-light);
-  font-family: 'Noto Serif TC', serif;
+  font-family: 'Noto Sans TC', sans-serif;
 
   color: var(--color-dark);
   line-height: 1.75;
@@ -181,7 +181,7 @@ h1 {
 h1,
 h2,
 h3 {
-  font-family: 'Noto Serif TC', serif;
+  font-family: 'Noto Serif TC', sans-serif;
   font-weight: var(--font-weight-bold);
 }
 
@@ -542,7 +542,7 @@ nav.navigation a.button {
 
 .tags a {
   font-size: 14px;
-  font-family: 'Source Code Pro', 'Noto Sans TC', Courier, monospace;
+  font-family: 'Noto Sans TC', sans-serif;
   font-weight: var(--font-weight-bold);
   padding: 0.2em 0.4em;
   border-radius: 0.5em;
@@ -715,4 +715,15 @@ nav.navigation a.button {
   position: relative;
   top: 1px;
   color: #bbb;
+}
+
+.row-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.row-gallery img {
+  margin: 5px;
+  max-width: 300px;
 }
